@@ -1,1 +1,1 @@
-This is the 'sunny.txt' - Nice!
+This is the 'sunny.txt'
